@@ -4,7 +4,7 @@
 
 **RFP Category:** `community`
 
-**Proposer:
+**Proposer: [@Joss](https://github.com/Joss-Hua)
 
 ## Project Description
 
