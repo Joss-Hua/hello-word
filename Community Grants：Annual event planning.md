@@ -1,6 +1,4 @@
-To submit a proposal, please create a PR against this template in this repo. Please title your file `rfp-community-proposal-title.md`, replacing `title` with the name of your event.
-
-# RFP Community Proposal: `Event Title`
+# RFP Community Proposal: `Annual event planning`
 
 **Link to RFP:** 
 
