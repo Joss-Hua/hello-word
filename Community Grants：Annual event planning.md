@@ -6,7 +6,7 @@ To submit a proposal, please create a PR against this template in this repo. Ple
 
 **RFP Category:** `community`
 
-**Proposer:** 【@Joss】（https://github.com/Joss-Hua）
+**Proposer:** [@Joss](https://github.com/Joss-Hua)
 
 # Event Details
 
