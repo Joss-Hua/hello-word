@@ -1,23 +1,21 @@
-> This Wave 1 RFP is open to additional proposals.
-
 # RFP: Hosting Community Meetups
 
 **Name of Project:** Hosting Community Meetups
 
 **RFP Category:** `community`
 
-**Proposer:** [@pooja](https://github.com/pooja)
+**Proposer:
 
 ## Project Description
 
-If you have an idea for a great Filecoin community event, or just want to get to know local members of the Filecoin community, this RFP is for you! We are looking for proposals for high-quality community meetups that foster connection and are focused on Filecoin. Your meetup could range from a few hours on a weekday evening to a multi-day hackathon! We expect your team to do all event organizing, marketing, fundraising/ticket sales, etc for the event. However, we can generally help by providing some swag or, depending on the event, a stipend.
+If you have some idea for a great Filecoin community event, or just want to get to know local members of the Filecoin community, this RFP is for you! We are looking for proposals for high-quality community meetups that foster connection and are focused on Filecoin. Your meetup could range from a few hours to multi-day! We expect your team to do all event organizing, marketing, fundraising/ticket sales, etc for the event. However, we can generally help by providing some swag or, depending on the event, a stipend.
 
 Some ideas for community events that we would be happy to fund include:
 - Meetups where the aim is to test Filecoin, file issues for any problems that arise, and fix some of them
 - Bug bashes (fix some of the open Filecoin issues)
-- Meetups focused on explaining key Filecoin concepts
-- Decentralized storage meetups that host lightning talks from projects building on Filecoin
-- Demos of Filecoin apps
+- Meetups focused on explaining the key differences in the implementation of filecoin
+- AMA mainly solves miners' questions about Filecoin protocol, economic, proof, EC and implementation
+- Filecoin miner offline summit aimed at mutual exchange, learning, putting forward ideas and sharing experience
 - Workshops specializing in how to build an app on Filecoin
 - And more!
 
