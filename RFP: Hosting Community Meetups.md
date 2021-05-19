@@ -8,13 +8,13 @@
 
 ## Project Description
 
-If you have some idea for a great Filecoin community event, or just want to get to know local members of the Filecoin community, this RFP is for you! We are looking for proposals for high-quality community meetups that foster connection and are focused on Filecoin. Your meetup could range from a few hours to multi-day! We expect your team to do all event organizing, marketing, fundraising/ticket sales, etc for the event. However, we can generally help by providing some swag or, depending on the event, a stipend.
+We are looking for proposals for high-quality community meetups that foster connection and are focused on Filecoin implementation. If you have some idea for a great Filecoin community event, Please read the following! Your meetup could range from a few hours to multi-day! We expect your team to do all event organizing, marketing, fundraising/ticket sales, etc for the event. we can generally help by providing some swag or, depending on the event, a stipend.
 
 Some ideas for community events that we would be happy to fund include:
-- Meetups where the aim is to test Filecoin, file issues for any problems that arise, and fix some of them
-- Bug bashes (fix some of the open Filecoin issues)
+- Meetups where the aim is to test general implementation of filecoin, file issues for any problems that arise, and fix some of them
+- Bug bashes (fix some of the open Filecoin Venus issues)
 - Meetups focused on explaining the key differences in the implementation of filecoin
-- AMA mainly solves miners' questions about Filecoin protocol, economic, proof, EC and implementation
+- AMA mainly solves miners' questions about Filecoin protocol, economic, proof, EC, implementation and deployment
 - Filecoin miner offline summit aimed at mutual exchange, learning, putting forward ideas and sharing experience
 - Workshops specializing in how to build an app on Filecoin
 
