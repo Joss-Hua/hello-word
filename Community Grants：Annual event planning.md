@@ -16,19 +16,19 @@
 
 ## Event Description
 
-Venus team will organize different types of event to promote miners and contributors to understand, participate in and use Filecoin and its common implementation.
+Venus team will organize different types of events to promote miners and contributors to understand, participate in and use Filecoin and its common implementation.
 
-Venus team hopes to organize event with Protocol Lab or Filecoin Foundation. In addition, Venus will hold events independently or with partners.
+Venus team hopes to organize events with Protocol Lab or Filecoin Foundation. In addition, Venus will hold events independently or with partners.
 
-Major filecoin miners, developers and builders in the Asia Pacific region will be invited as guests to bring valuable information to filecoin ecological builders in the Asia Pacific region based on the progress of projects in different stages of Venus or the latest development of filecoin ecology.
+Major Filecoin miners, developers and builders in the Asia Pacific region will be invited as guests to bring valuable information to filecoin ecological builders in the Asia Pacific region based on the progress of projects in different stages of Venus or the latest development of Filecoin ecology.
 
-The types of activities will include distributed storage summit, filecoin ecological summit, Web3 conference, filecoin developer camp, filecoin miners closed door conference, etc. Holding activities requires more venues, publicity, materials or other costs. We plan to control the number of participants in each activity to 50-500 (according to the actual needs), which is more convenient for management. The event will be shared through live broadcast (considering whether to keep the video according to the situation of the meeting), and there will be more than 20 media publicity, including the release of the event schedule, event review, community interaction, etc.
+The types of events will include distributed storage summit, Filecoin ecological summit, Web3 conference, Filecoin developer camp, Filecoin miners closed door conference, etc. Holding events requires more Venue, publicity, materials or other costs. We plan to control the number of participants in each activity to 50-500 (according to the actual needs), which is more convenient for management. The events will be shared through live broadcast (considering whether to keep the video according to the situation of the meeting), and there will be more than 20 media publicity, including the release of the event schedule, event review, community interaction, etc.
 
 Finally, we hope that people from more regions will participate in filecoin more deeply, including providing development capabilities, storage services, DAPP services and so on.
 
 ## Value
 
-All the planned activities will bring more comprehensive, timely and correct information and guidance suggestions to filecoin ecological participants, and promote the balanced development of filecoin universal implementation. In this process, more and more people will join the filecoin ecosystem, including developers, miners, storage customers and application service providers.
+All the planned events will bring more comprehensive, timely and correct information and guidance suggestions to filecoin ecological participants, and promote the balanced development of Filecoin universal implementation. In this process, more and more people will join the filecoin ecosystem, including developers, miners, storage customers and application service providers.
 
 ## Request of support
 
