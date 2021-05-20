@@ -1,6 +1,6 @@
 # RFP Community Proposal: `Annual event planning`
 
-**Link to RFP:** 
+**Link to RFP:** [Hosting Community Meetups](https://github.com/filecoin-project/devgrants/blob/master/rfps/rfp-community-meetups.md)
 
 **RFP Category:** `community`
 
