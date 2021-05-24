@@ -1,10 +1,10 @@
 # RFP：venus-market - system development
 
-project description: “venus-market - system development”
+**project description:** “venus-market - system development”
 
-Rfp type: app-dev
+**Rfp type:** app-dev
 
-Initiator: venus-team 
+**Initiator:** venus-team 
 
 
 ## project description
