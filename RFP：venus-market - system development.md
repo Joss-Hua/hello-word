@@ -2,7 +2,7 @@
 
 **project description:** “venus-market - system development”
 
-**Rfp type:** dev-core
+**Rfp type:** "dev-core"
 
 **Initiator:** venus-team 
 
