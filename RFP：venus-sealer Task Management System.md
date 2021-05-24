@@ -56,7 +56,7 @@ Must-have functions:
 
 ## Deliverables
 
-An open-source realization under both MIT and APACHE2 protocol:
+An open-sourced, dual-licensed (under MIT and APACHE2) implementation that:
 
 For Track 1:
 
@@ -92,20 +92,20 @@ for both Tracks:
 
 >Notice: During the process of perfecting tasking system, you are most welcome to contact us at any time so that the final scheme can be determined.
 
-## Suggested Team
+## Recommended Team
 
 - Have rich experience in mass system development
 - familiar with the current mining mechanism of Filecoin
 - Willing to propel the development of venus opensource community
 
-## Milestone and Fund
+## Milestones & Funding
 
-**lump sum:** to be determined.(Please include this in your propsal)
+**Total Funding Amount:** TBD. Please propose a budget in your proposal.
 
-**Suggestion：**
+**Suggested Milestones:**
 
-| milestone number | illustration                               | fund | ETA |
-| ---------- | ---------------------------------------- | ---- | -------- |
+| Milestone No. | Milestone Description | Funding | Estimated Timeframe |
+| --- | --- | --- | --- |
 | 1          | Finalization of working process and system structure | TBD | 3-4 weeks    |
 | 2          | Realization of data support system | TBD | 3-4 weeks    |
 | 3          | Realization of rewarding mechanism | TBD | 3-4 weeks    |
@@ -114,10 +114,9 @@ for both Tracks:
 
 ## Acceptance Criteria
 
-**Finally determine the acceptance criteria of workflow, system structure as well as design model :**
-
-- This landmark deliverables should represent the final design.
-- Workflow design should reach the core goals proposed in this brief introduction.
+**Acceptance criteria for Finalize scope, workflow design, architecture & Design mockups:**
+- This milestone's deliverables must represent the final design of the service.
+- The workflow design should address the core goals proposed in the description of this brief.
 
 **Acceptance criteria for all program deliverables:**
 
