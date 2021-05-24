@@ -71,9 +71,9 @@ We will participate in the conference through sponsorship
 
 - Joss[@Joss](https://github.com/Joss-Hua)
 - Timguo[@Timguo](https://github.com/timguo-ipfs)
+- Mike[@hunjixin](https://github.com/hunjixin)
 - Tony
 - Fey
-- Mike
 - ...
 
 ## Team Website
