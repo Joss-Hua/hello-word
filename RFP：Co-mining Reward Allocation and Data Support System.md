@@ -1,4 +1,4 @@
-# RFP：Co-mining Reward Allocation and Data Support System
+# RFP：Co-mining Reward Allocation and Data Support System 
 
 **Name of Project：**“Co-mining Reward Allocation and Data Support System”
 
