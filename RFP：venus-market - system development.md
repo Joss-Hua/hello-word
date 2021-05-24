@@ -1,6 +1,6 @@
-# RFP：venus-market - system development
+# RFP：venus-market system development
 
-**project description:** “venus-market - system development”
+**project description:** “venus-market system development”
 
 **Rfp type:** "dev-core"
 
