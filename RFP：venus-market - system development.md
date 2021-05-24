@@ -7,14 +7,16 @@
 **Initiator:** venus-team 
 
 
-## project description
+## Project Description
 
 To maximize data storage and retrieval is one of the key function of Filecoin network. Currently, venus has finished the development of the basic components. The next step is to finish the development of venus-market as the last component of venus. Different from lotus, venus distributed mining pool is an assembly of multiple miners. Venus-market provides a unified entry for data storage and data retrieval for venus distributed mining pool. And data distribution in different location can also help explore the function of venus distributed mining pool as the entry of ipfs gateway.
 
 The goal of venus-market is to finish the development of a highly available independent program with full functions and improved APIs and commands. The system is designed to support a full process of data storage and data retrieval, a variety of important data storage and data transmission protocol, multiple miners to distribute orders, multiple locations to select nodes, and cluster horizontal scaling.
 
 
-## Features
+## Deliverables
+
+An open-sourced, dual-licensed (under MIT and APACHE2) implementation that:
 
 Track-1: data storage and data retrieval, fully compatible with the client side of lotus storage and retrieval.
 
@@ -40,19 +42,19 @@ Track-6: piece data storage, to support multiple storage types
 
     venus-market manages the received piece data, which is temporarily stored in a piece storage, waiting for the sealer system to package these pieces. It is hoped that this piece storage can support multiple storage methods and is easy to implement.
 
-## Criteria for team participation
+## Recommended Team
 
 - Have system development experience for influential program
 - Familiar with Filecoin's current mining and storage and retrieval mechanism
 - Those who are willing to jointly promote the venus open source community are preferred
 
-## Milestones and funding
+## Milestones & Funding
 
-**Total amount:** To be determined. Please provide a budget in your proposal.
+**Total Funding Amount:** TBD. Please propose a budget in your proposal.
 
-**Suggested Milestone：**
+**Suggested Milestones:**
 
-| Milestone number | Milestone description| Funding | Estimated Time|
+| Milestone No. | Milestone Description | Funding | Estimated Timeframe |
 | --- | --- | --- | --- |
 | 1 | Finalize scope, workflow design, architecture design | TBD | 3-4 weeks |
 | 2 | All project deliverables have been completed (website, documentation, code base) | TBD | 2 weeks
@@ -61,9 +63,9 @@ Track-6: piece data storage, to support multiple storage types
 
 ## Acceptance Criteria
 
-**Finally determine the scope, workflow design, architecture and design model acceptance criteria:**
-- The deliverables of this milestone must represent the final design of the service
-- Workflow design should address the core goals proposed in this brief
+**Acceptance criteria for Finalize scope, workflow design, architecture & Design mockups:**
+- This milestone's deliverables must represent the final design of the service.
+- The workflow design should address the core goals proposed in the description of this brief.
 
 **Compatible with lotus client-side storage and retrieval**
 - The lotus client can smoothly access any miner in the venus distributed mining pool for storage retrieval services
