@@ -2,7 +2,7 @@
 
 **Name of Project：**“Co-mining Reward Allocation and Data Support System”
 
-**Proposal Category：**“app-dev”
+**Proposal Category：**“dev-core”
 
 **Initiator:** venus-team
 
