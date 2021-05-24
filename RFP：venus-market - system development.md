@@ -54,9 +54,9 @@ Track-6: piece data storage, to support multiple storage types
 
 | Milestone number | Milestone description| Funding | Estimated Time|
 | --- | --- | --- | --- |
-| 1 | Finalize scope, workflow design, architecture design | To be determined | 3-4 weeks |
-| 2 | All project deliverables have been completed (website, documentation, code base) | To be determined | 2 weeks
-| 3 | Maintenance and upgrade during Testnet and Mainnet | To be determined | 2-3weeks |
+| 1 | Finalize scope, workflow design, architecture design | TBD | 3-4 weeks |
+| 2 | All project deliverables have been completed (website, documentation, code base) | TBD | 2 weeks
+| 3 | Maintenance and upgrade during Testnet and Mainnet | TBD | 2-3weeks |
 
 
 ## Acceptance Criteria
