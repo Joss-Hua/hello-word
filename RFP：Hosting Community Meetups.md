@@ -4,7 +4,8 @@
 
 **RFP Category:** `community`
 
-**Proposer:** [@Joss](https://github.com/Joss-Hua)
+**Initiator: ** venus-team
+
 
 ## Project Description
 
