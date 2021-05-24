@@ -1,6 +1,6 @@
 # RFP: Hosting Community Meetups for the Promotion of Different Implementations
 
-**Name of Project:** Hosting Community Meetups for the Promotion of Different Implementations
+**Name of Project:** “Hosting Community Meetups for the Promotion of Different Implementations”
 
 **RFP Category:** `community`
 
