@@ -35,12 +35,12 @@ xxx
 
 </br>
 
-## 其他资源
+## 必要资源
 您需要通过[venus-sealer](https://github.com/filecoin-project/venus-sealer)做数据封装相关任务的管理，通过[venus-woker](https://github.com/filecoin-project/venus-docs/blob/master/docs/zh/Venus-Worker.md)与venus-sealer的配合将更好的执行封装任务。
 
 理论上[venus-wallet](https://github.com/filecoin-project/venus-wallet)可以运行在共享组件部分，但基于矿工的安全性需求，venus-wallet可以由矿工独立部署，就像图1那样。
 
 </br>
 
-## 人员
+## 人员支持
 接入孵化器的操作过程如果遇见更多问题，可联系[Venus Team](https://filecoinproject.slack.com/archives/CEHHJNJS3) - [@hunjixin](https://filecoinproject.slack.com/team/USSCQ7WGM)、[@moliujian](https://filecoinproject.slack.com/team/UP4KR85FT)，我们将尽多的给予咨询、指导等支持。
