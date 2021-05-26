@@ -1,6 +1,6 @@
 # Foreword
 
-So far, there are about [2700](http://filscan.io/)miners in the Filecoin Network，accounted to more than [5.6EiB](http://filscan.io/) storage power, in the meantime, daily growth of storage power are [30-60PiB](http://filscan.io/)，There are a lot of data that is now stored in the Filecoin network. We found most of the storage power are generaged by miners in Asia, a few of large miners contributed to a larger percentage of storage power to the Filecoin network, for a better Filecoin network and resilent ecosystem, improve the storage power proportions from small and medium miners are essential. But due to the cost of investment, software and hardware configuration, and the rapid growth of Filecoin network, that's not easy to maintain a proper Lucky Value to earn proper reward with providing storage power to the network.  In the meantime, the slower growth of storage power by small&medium miners also reflects the current Filecoin network needs to be strengthened to better support the small&medium miners. 
+So far, there are about [2700](http://filscan.io/)miners in the Filecoin Network，accounted to more than [5.8EiB](http://filscan.io/) storage power, in the meantime, daily growth of storage power are [30-60PiB](http://filscan.io/)，There are a lot of data that is now stored in the Filecoin network. We found most of the storage power are generaged by miners in Asia, a few of large miners contributed to a larger percentage of storage power to the Filecoin network, for a better Filecoin network and resilent ecosystem, improve the storage power proportions from small and medium miners are essential. But due to the cost of investment, software and hardware configuration, and the rapid growth of Filecoin network, that's not easy to maintain a proper Lucky Value to earn proper reward with providing storage power to the network.  In the meantime, the slower growth of storage power by small&medium miners also reflects the current Filecoin network needs to be strengthened to better support the small&medium miners. 
 
 *Distribution of Miners Based on Storage Power*
 
@@ -49,7 +49,7 @@ Due to the different situation with miners, the time and resources required vari
 
 The incubation center do welcome new or small miners to join immediately, **you need to seal at least 160 sectors per day(5TiB）to join this program, when a miner's storage power reached 1PiB or has participated this program over 90days, then the miner has to withdraw from this program,** and the others who meet the requirements can be joined.
 
-The first term of Miner Incubation Center started from **2021/06/01 - 2021/08/31 with 100 miners**. If you want to join this program, please register it here [Application Form](xxxx)，please fill as more contents as you can so we can review and feedback to you within a short time. Please be known, due to the software and hardware varied a lot, we have to learn more about your application before make the right choice. 
+The first term of Miner Incubation Center started from **2021/07/01 - 2021/09/30 with 15 miners**. If you want to join this program, please register it here [Application Form](http://ipfsforce.mikecrm.com/OVZb0Dv)，please fill as more contents as you can so we can review and feedback to you within a short time. Please be known, due to the software and hardware varied a lot, we have to learn more about your application before make the right choice. 
 
 </br>
 
@@ -97,7 +97,7 @@ Switch from Lotus to Venus：https://github.com/filecoin-project/venus-docs/blob
 
 </br>
 
-**About  [Application Form](xxx), [Incubation Center](https://github.com/Joss-Hua/hello-word/edit/main/%E7%9F%BF%E5%B7%A5%E5%AD%B5%E5%8C%96%E5%99%A8%E8%AE%A1%E5%88%92.md)、[Venus Node Deployment](https://github.com/filecoin-project/venus-docs/blob/master/docs/zh/How-To-Deploy-MingPool.md)，if you have any questions, feel free to contact us:**
+**About  [Application Form](http://ipfsforce.mikecrm.com/OVZb0Dv), [Incubation Center](https://github.com/Joss-Hua/hello-word/edit/main/%E7%9F%BF%E5%B7%A5%E5%AD%B5%E5%8C%96%E5%99%A8%E8%AE%A1%E5%88%92.md)、[Venus Node Deployment](https://github.com/filecoin-project/venus-docs/blob/master/docs/zh/How-To-Deploy-MingPool.md)，if you have any questions, feel free to contact us:**
 
 - Slack: [fil-venus](https://filecoinproject.slack.com/archives/CEHHJNJS3)
 - Email: [venus@ipfsforce.com ](venus@ipfsforce.com )
