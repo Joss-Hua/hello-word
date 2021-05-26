@@ -72,13 +72,14 @@ The public modules of this program is free for miners who joined this program, y
 
 **Resources provided by Incuation Center (Public Modules)：**
 
-| Modules                     | CPU  | RAM  | HARD DRIVE | No.               |
-| --------------------------- | ---- | ---- | ---------- | ----------------- |
-| venus                       | 32C  | 128G | 4T         | 2（1 for backup） |
-| venus-messager + venus-auth | 16C  | 32G  | 100G       | 2（1 for backup） |
-| mysql                       | \    | \    | \          | 1（RDS）          |
-| venus-miner                 | 32C  | 64G  | 300G       | 1                 |
-
+| Modules                     | CPU  | RAM  | HARD DRIVE | No.                   |
+| --------------------------- | ---- | ---- | ---------- | -----------------     |
+| venus                       | 32C  | 128G | 4T         | 2（1 for backup）      |
+| venus-messager + venus-auth | 16C  | 32G  | 100G       | 2（1 for backup）      |
+| mysql                       | \    | \    | \          | 1（RDS）               |
+| venus-miner                 | 32C  | 64G  | 300G       | 1                     |
+| *bandwidth*                 |  \   | \    |      \     | *Based on actual needs* |
+ 
 **Resources provided by miner（Independent Module）：**
 
 | Module                      | CPU                   | RAM                   | HARD DRIVE            |
