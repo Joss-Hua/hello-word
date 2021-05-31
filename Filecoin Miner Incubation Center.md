@@ -53,6 +53,17 @@ The first term of Miner Incubation Center started from **2021/07/01 - 2021/09/30
 
 </br>
 
+**Milestones:** The upcoming progress about Venus Incubation Center
+
+| Milestone No. | No. of Miners | Timeline|
+| --- | --- | --- | 
+| 1 | 15 Miners | 2021 July1st-Sep31st | 
+| 2 | 20 Miners | 2021 Oct1st-Dec31st |
+| 3 | 25 Miners | 2022 Jan1st-Mar31st | 
+
+*depends on the real situation
+
+
 ### Quota of Incubation center
 
 Based on the vision of Filecoin, we hope this program can reach miner in different regions,  but due to the current situation of miners distributed, the first term of this program will be **open to 15 miners** who meet the requirements.
