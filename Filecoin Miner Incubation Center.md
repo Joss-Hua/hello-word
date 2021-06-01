@@ -111,5 +111,4 @@ Switch from Lotus to Venus：https://github.com/filecoin-project/venus-docs/blob
 - Slack: [fil-venus](https://filecoinproject.slack.com/archives/CEHHJNJS3)
 - Email: [venus@ipfsforce.com ](venus@ipfsforce.com )
 
-*注意：孵化器尚处于上线初期，公共组件已开源但作为非赢利服务，孵化器会提供可用性支撑，但不对其中任何错误或漏洞提供任何担保，并不对您的使用或结果承担任何责任。*
-
+*Note: please be noted: Incubation center is still in the early stages, public modules from Venus implementation are open sourced but as a non-profit service, the incubation center provides  support without warranty for any errors or vulnerabilities and is not responsible for your use or results.*
