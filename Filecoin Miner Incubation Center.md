@@ -107,7 +107,7 @@ Switch from Lotus to Venus：https://github.com/filecoin-project/venus-docs/blob
 
 </br>
 
-**About  [Application Form](http://venusteam.mikecrm.com/OVZb0Dv), [Incubation Center](https://github.com/Joss-Hua/hello-word/edit/main/%E7%9F%BF%E5%B7%A5%E5%AD%B5%E5%8C%96%E5%99%A8%E8%AE%A1%E5%88%92.md)、[Venus Node Deployment](https://github.com/filecoin-project/venus-docs/blob/master/docs/zh/How-To-Deploy-MingPool.md)，if you have any questions, feel free to contact us:**
+**About  [Application Form](http://venusteam.mikecrm.com/OVZb0Dv), [Incubation Center](https://github.com/Joss-Hua/hello-word/edit/main/%E7%9F%BF%E5%B7%A5%E5%AD%B5%E5%8C%96%E5%99%A8%E8%AE%A1%E5%88%92.md), [Venus Node Deployment](https://github.com/filecoin-project/venus-docs/blob/master/docs/zh/How-To-Deploy-MingPool.md)，if you have any questions, feel free to contact us:**
 
 - Slack: [fil-venus](https://filecoinproject.slack.com/archives/CEHHJNJS3)
 - Email: [venus@ipfsforce.com ](venus@ipfsforce.com )
