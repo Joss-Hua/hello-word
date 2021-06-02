@@ -55,11 +55,12 @@ The first term of Miner Incubation Center started from **2021/07/01 - 2021/09/30
 
 **Milestones:** The upcoming progress about Venus Incubation Center
 
-| Milestone No. | No. of Miners | Timeline|
-| --- | --- | --- | 
-| 1 | 15 Miners | 2021 July1st-Sep31st | 
-| 2 | 20 Miners | 2021 Oct1st-Dec31st |
-| 3 | 25 Miners | 2022 Jan1st-Mar31st | 
+| Milestone No. | No. of Miners | Timeline| Cost saving |
+| --- | --- | --- | --- | 
+| 1 | 15 Miners | 2021 July1st-Sep31st | 9000💲 |
+| 2 | 20 Miners | 2021 Oct1st-Dec31st | 12000💲 |
+| 3 | 25 Miners | 2022 Jan1st-Mar31st | 15000💲 |
+| 4 | 30 Miners | 2022 Apr1st-Jun31st | 18000💲 |
 
 *depends on the real situation
 
