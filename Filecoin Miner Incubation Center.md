@@ -99,6 +99,11 @@ For miners successfully joined this program there will be cost saved to particip
 
 </br>
 
+### Notice of Risk
+please be noted the Filecoin Miner Incubation center is still in the early stages, public modules from Venus implementation are open sourced but as a non-profit service, the incubation center provides  support without warranty for any errors or vulnerabilities and is not responsible for your use or results.
+
+</br>
+
 ### Run with Venus Implementation - User case（based on Venus v0.9.6 releases）
 
 Deploy Venus Node：https://github.com/filecoin-project/venus-docs/blob/master/docs/zh/How-To-Deploy-MingPool.md
@@ -111,7 +116,3 @@ Switch from Lotus to Venus：https://github.com/filecoin-project/venus-docs/blob
 
 - Slack: [fil-venus](https://filecoinproject.slack.com/archives/CEHHJNJS3)
 - Email: [venus@ipfsforce.com ](venus@ipfsforce.com )
-
-### Please be noted
-
-Incubation center is still in the early stages, public modules from Venus implementation are open sourced but as a non-profit service, the incubation center provides  support without warranty for any errors or vulnerabilities and is not responsible for your use or results.
