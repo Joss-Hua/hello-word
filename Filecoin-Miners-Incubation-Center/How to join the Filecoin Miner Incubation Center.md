@@ -1,28 +1,13 @@
-![banner](../images/640副本.jpg)
 
-# <div align=center> How do access the Filecoin Miner Incubation Center </div>
+# <div align=center> How to join the Filecoin Miner Incubation Center </div>
 
-</br>
+## 申请流程
 
-## 前言
-[矿工孵化器](https://github.com/Joss-Hua/hello-word/blob/main/Filecoin%20Miner%20Incubation%20Center.md)使用[Venus的分布式矿池架构](https://github.com/filecoin-project/venus-docs/blob/master/docs/zh/Overview.md)（图1），为小矿工提供共享组件的服务，矿工只需独立运行部分组件即可运行一个或数个节点，这些节点包含一个完整矿工的所有功能。本文档面向符合[矿工孵化器](https://github.com/Joss-Hua/hello-word/blob/main/Filecoin%20Miner%20Incubation%20Center.md)申请要求的新矿工或使用Lotus的小矿工，指导其接入孵化器。
+### 1.申请审核
 
-![venus-cluster.png](../images/venus-cluster.png)
-<div align=center>(illustration1: Venus Distributed mining pool structure) </div>
+Filecoin矿工孵化中心第一阶段为2021/07/25 - 2021/09/30，提供了15个名额。请于07/18前填写并提交[申请表](http://venusteam.mikecrm.com/1lmpQtj)，申请表内容应详细且真实，以便尽快审核。值得注意的是，我们将与每一个提交申请的矿工取得联系（通过您提供的联系方式）并反馈结果，一旦通过申请，您的节点将在2021/07/25之后尽快接入孵化中心，您并不需要等待其他矿工的审核结果。
 
-</br>
-
-如果您想自行运行Venus全组件，搭建一套新的分布式矿池，可以在[这里](https://github.com/filecoin-project/venus-docs/blob/master/docs/zh/How-To-Deploy-MingPool.md)了解。或者您可能希望将您正在管理的Lotus集群切换为Venus程序，可以在[这里](https://github.com/filecoin-project/venus-docs/blob/master/docs/zh/Venus-replace-lotus.md)了解。
-
-</br>
-
-## 接入流程
-### 1.申请及审核
-孵化器第一期的服务周期为2021/07/01 - 2021/09/30，开放15个矿工名额。请于06/25前填写并提交[申请表](http://ipfsforce.mikecrm.com/OVZb0Dv)，申请表内容应详细且真实，以便我们尽快评估选出第一期的15名矿工，如果通过申请的矿工不足15个，提交申请的周期基于实际需求可能调整。
-
-值得注意的是，我们将与每一个通过申请的矿工取得联系（通过您提供的联系方式），您将在2021/07/01 - 2021/09/30接入孵化器，并不需要等待其他矿工的审核结果。如果您无需更多帮助，通过以下流程完成了自行接入，这是我们希望看到的。
-
-### 2.接入相关接口x x x x
+### 2.接入相关接口
 xxx
 
 ### 3.网关xxx
@@ -30,8 +15,6 @@ xxx
 
 ### 4.xxx
 xxx
-
-</br>
 
 ## 相关文档
 以上流程所使用的程序来自开源的[Lotus](https://github.com/filecoin-project/lotus/releases)及[Venus](https://github.com/filecoin-project/venus/releases)代码，部署或接入过程可能会碰到多种问题，比如组件、网络、网关、参数、命令、硬件等。
